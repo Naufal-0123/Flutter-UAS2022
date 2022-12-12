@@ -1,0 +1,11 @@
+{
+    "status" : "success",
+    "message" : "sukses bro",
+    "data" : [
+      {
+        "id" : 1,
+        "email" : "droid@gmail.com",
+        "password" : "12345678"
+      } 
+    ]
+}
